@@ -1,0 +1,6 @@
+{
+  "sections": {
+    "home-genz": { "type": "home-genz" }
+  },
+  "order": ["home-genz"]
+}
